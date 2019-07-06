@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include\bomb.hpp" open="1" top="0" tabpos="9">
+		<Cursor position="230" topLine="0" />
+	</File>
+	<File name="include\config.hpp" open="0" top="0" tabpos="8">
+		<Cursor position="449" topLine="0" />
+	</File>
+	<File name="include\explosion.hpp" open="1" top="0" tabpos="13">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="include\game.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="134" topLine="0" />
+	</File>
+	<File name="include\gamestate.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="903" topLine="10" />
+	</File>
+	<File name="include\imagemanager.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="285" topLine="0" />
+	</File>
+	<File name="include\map.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="include\menustate.hpp" open="1" top="0" tabpos="11">
+		<Cursor position="912" topLine="6" />
+	</File>
+	<File name="include\player.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="747" topLine="7" />
+	</File>
+	<File name="include\resourcemanager.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="25" topLine="0" />
+	</File>
+	<File name="include\shared.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="include\state.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="235" topLine="0" />
+	</File>
+	<File name="src\bomb.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="169" topLine="0" />
+	</File>
+	<File name="src\config.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="176" topLine="3" />
+	</File>
+	<File name="src\exlposion.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="630" topLine="13" />
+	</File>
+	<File name="src\game.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="src\gamestate.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="643" topLine="114" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="75" topLine="0" />
+	</File>
+	<File name="src\map.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2053" topLine="69" />
+	</File>
+	<File name="src\menustate.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="2958" topLine="88" />
+	</File>
+	<File name="src\player.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="539" topLine="36" />
+	</File>
+	<File name="src\shared.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="105" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

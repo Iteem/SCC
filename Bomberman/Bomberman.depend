@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1297001705 source:e:\programmierung\codeblocks\bomberman\src\main.cpp
+	"game.hpp"
+
+1297001705 e:\programmierung\codeblocks\bomberman\include\game.hpp
+
+1297023013 source:e:\programmierung\codeblocks\bomberman\src\game.cpp
+	"game.hpp"
+	"config.hpp"
+	"shared.hpp"
+	"state.hpp"
+	"gamestate.hpp"
+	"menustate.hpp"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1297018915 e:\programmierung\codeblocks\bomberman\include\config.hpp
+	<string>
+	<map>
+	<sstream>
+
+1297018187 source:e:\programmierung\codeblocks\bomberman\src\config.cpp
+	"config.hpp"
+	<fstream>
+	<iostream>
+
+1294604784 source:e:\programmierung\codeblocks\bomberman\src\imagemanager.cpp
+	"imagemanager.hpp"
+
+1294604784 e:\programmierung\codeblocks\bomberman\include\imagemanager.hpp
+	"resourcemanager.hpp"
+	<SFML/Graphics/Image.hpp>
+
+1280773018 e:\programmierung\codeblocks\bomberman\include\resourcemanager.hpp
+	<map>
+	<string>
+	"resourcemanager.inl"
+
+1280773024 e:\programmierung\codeblocks\bomberman\include\resourcemanager.inl
+
+1298845824 source:e:\programmierung\codeblocks\bomberman\src\gamestate.cpp
+	"gameState.hpp"
+	"map.hpp"
+
+1298845725 e:\programmierung\codeblocks\bomberman\include\gamestate.hpp
+	"state.hpp"
+	"map.hpp"
+	"player.hpp"
+	"bomb.hpp"
+	"explosion.hpp"
+	<list>
+
+1297002078 e:\programmierung\codeblocks\bomberman\include\state.hpp
+	"shared.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1297009389 e:\programmierung\codeblocks\bomberman\include\shared.hpp
+	<SFML/Graphics/RenderWindow.hpp>
+	"config.hpp"
+
+1297011475 source:e:\programmierung\codeblocks\bomberman\src\shared.cpp
+	"shared.hpp"
+
+1298846784 source:e:\programmierung\codeblocks\bomberman\src\menustate.cpp
+	"menuState.hpp"
+	"imagemanager.hpp"
+
+1298846730 e:\programmierung\codeblocks\bomberman\include\menustate.hpp
+	"state.hpp"
+	<SFML/Graphics.hpp>
+
+1298741547 e:\programmierung\codeblocks\bomberman\include\map.hpp
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+
+1298839152 source:e:\programmierung\codeblocks\bomberman\src\map.cpp
+	"map.hpp"
+	"imagemanager.hpp"
+	<fstream>
+	<iostream>
+
+1298841789 e:\programmierung\codeblocks\bomberman\include\player.hpp
+	<SFML/Graphics.hpp>
+	<list>
+	<string>
+	"map.hpp"
+	"bomb.hpp"
+	"explosion.hpp"
+
+1298841858 source:e:\programmierung\codeblocks\bomberman\src\player.cpp
+	"player.hpp"
+	"imagemanager.hpp"
+
+1298837562 source:e:\programmierung\codeblocks\bomberman\src\bomb.cpp
+	"bomb.hpp"
+	"imagemanager.hpp"
+
+1298837562 e:\programmierung\codeblocks\bomberman\include\bomb.hpp
+	<SFML/Graphics.hpp>
+
+1298841789 e:\programmierung\codeblocks\bomberman\include\explosion.hpp
+	<SFML/Graphics.hpp>
+
+1298841839 source:e:\programmierung\codeblocks\bomberman\src\exlposion.cpp
+	"explosion.hpp"
+	"imagemanager.hpp"
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="button.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="68" />
+	</File>
+	<File name="button.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="1" />
+	</File>
+	<File name="game.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="242" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="342" topLine="2" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="97" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="6">
+		<Cursor position="692" topLine="0" />
+	</File>
+	<File name="menu.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="3007" topLine="33" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="ship.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="188" />
+	</File>
+	<File name="ship.h" open="1" top="0" tabpos="8">
+		<Cursor position="354" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

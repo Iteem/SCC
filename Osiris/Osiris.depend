@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1293489962 source:e:\programmierung\codeblocks\osiris\main.cpp
+	"game.hpp"
+
+1293273972 e:\programmierung\codeblocks\osiris\texturedsprite.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1293203933 source:e:\programmierung\codeblocks\osiris\texturedsprite.cpp
+	"TexturedSprite.hpp"
+
+1293493656 source:e:\programmierung\codeblocks\osiris\texturedshape.cpp
+	"texturedshape.hpp"
+
+1293374922 e:\programmierung\codeblocks\osiris\texturedshape.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1293477398 source:e:\programmierung\codeblocks\osiris\beziercurve.cpp
+	"beziercurve.hpp"
+
+1293477398 e:\programmierung\codeblocks\osiris\beziercurve.hpp
+	<SFML/Graphics.hpp>
+	"texturedshape.hpp"
+
+1293480998 source:e:\programmierung\codeblocks\osiris\tail.cpp
+	"tail.hpp"
+	<SFML/Graphics.hpp>
+	<cmath>
+
+1293480998 e:\programmierung\codeblocks\osiris\tail.hpp
+	<SFML/Graphics.hpp>
+	"texturedshape.hpp"
+	<list>
+
+1293448990 e:\programmierung\codeblocks\osiris\comet.hpp
+	"tail.hpp"
+
+1293449226 source:e:\programmierung\codeblocks\osiris\comet.cpp
+	"comet.hpp"
+
+1293481914 source:e:\programmierung\codeblocks\osiris\shared.cpp
+	"shared.hpp"
+
+1293481914 e:\programmierung\codeblocks\osiris\shared.hpp
+	<SFML/Graphics/RenderWindow.hpp>
+
+1304256603 source:e:\programmierung\codeblocks\osiris\introstate.cpp
+	"introState.hpp"
+	<cmath>
+
+1294755474 e:\programmierung\codeblocks\osiris\introstate.hpp
+	"state.hpp"
+	"comet.hpp"
+	"texturedshape.hpp"
+	<SFML/Graphics.hpp>
+
+1293664028 e:\programmierung\codeblocks\osiris\state.hpp
+	"shared.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1293489931 e:\programmierung\codeblocks\osiris\game.hpp
+
+1294754892 source:e:\programmierung\codeblocks\osiris\game.cpp
+	"game.hpp"
+	"shared.hpp"
+	"state.hpp"
+	"introstate.hpp"
+	"menustate.hpp"
+	"gamestate.hpp"
+
+1304258751 source:e:\programmierung\codeblocks\osiris\gamestate.cpp
+	"gameState.hpp"
+	<sstream>
+
+1304258751 e:\programmierung\codeblocks\osiris\gamestate.hpp
+	"state.hpp"
+	"ship.hpp"
+	"shot.hpp"
+	"enemy.hpp"
+	<list>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1304261765 source:e:\programmierung\codeblocks\osiris\menustate.cpp
+	"menuState.hpp"
+	<cmath>
+
+1304258751 e:\programmierung\codeblocks\osiris\menustate.hpp
+	"state.hpp"
+	"comet.hpp"
+	"button.hpp"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1294431428 source:e:\programmierung\codeblocks\osiris\button.cpp
+	"button.hpp"
+	<iostream>
+
+1294339377 e:\programmierung\codeblocks\osiris\button.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1294506255 source:e:\programmierung\codeblocks\osiris\object.cpp
+	"object.hpp"
+
+1294520310 e:\programmierung\codeblocks\osiris\object.hpp
+	<SFML/Graphics.hpp>
+
+1294616289 source:e:\programmierung\codeblocks\osiris\ship.cpp
+	"ship.hpp"
+	"normalshot.hpp"
+
+1294612881 e:\programmierung\codeblocks\osiris\ship.hpp
+	"object.hpp"
+	"shot.hpp"
+	<list>
+
+1294527677 e:\programmierung\codeblocks\osiris\shot.hpp
+	"object.hpp"
+
+1294529302 source:e:\programmierung\codeblocks\osiris\normalshot.cpp
+	"normalshot.hpp"
+
+1294527677 source:e:\programmierung\codeblocks\osiris\shot.cpp
+	"shot.hpp"
+
+1294529289 e:\programmierung\codeblocks\osiris\normalshot.hpp
+	"shot.hpp"
+	<SFML/Graphics.hpp>
+
+1294614693 e:\programmierung\codeblocks\osiris\enemy.hpp
+	"object.hpp"
+	"shot.hpp"
+	<list>
+
+1294616289 source:e:\programmierung\codeblocks\osiris\enemy.cpp
+	"enemy.hpp"
+	"normalshot.hpp"
+	"imagemanager.hpp"
+
+1294608384 source:e:\programmierung\codeblocks\osiris\imagemanager.cpp
+	"imagemanager.hpp"
+
+1294608384 e:\programmierung\codeblocks\osiris\imagemanager.hpp
+	"resourcemanager.hpp"
+	<SFML/Graphics/Image.hpp>
+
+1280776618 e:\programmierung\codeblocks\osiris\resourcemanager.hpp
+	<map>
+	<string>
+	"resourcemanager.inl"
+
+1280776624 e:\programmierung\codeblocks\osiris\resourcemanager.inl
+
+1294601186 source:d:\projekte\osiris\imagemanager.cpp
+	"imagemanager.hpp"
+
+1294601186 d:\projekte\osiris\imagemanager.hpp
+	"resourcemanager.hpp"
+	<SFML/Graphics/Image.hpp>
+
+1280769420 d:\projekte\osiris\resourcemanager.hpp
+	<map>
+	<string>
+	"resourcemanager.inl"
+
+1280769426 d:\projekte\osiris\resourcemanager.inl
+
+1294609198 source:d:\projekte\osiris\introstate.cpp
+	"introState.hpp"
+	<cmath>
+
+1294609004 d:\projekte\osiris\introstate.hpp
+	"state.hpp"
+	"comet.hpp"
+	"texturedshape.hpp"
+	<SFML/Graphics.hpp>
+
+1293656830 d:\projekte\osiris\state.hpp
+	"shared.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1293474716 d:\projekte\osiris\shared.hpp
+	<SFML/Graphics/RenderWindow.hpp>
+
+1306575383 d:\projekte\osiris\comet.hpp
+	"tail.hpp"
+
+1306575384 d:\projekte\osiris\tail.hpp
+	<SFML/Graphics.hpp>
+	"texturedshape.hpp"
+	<list>
+
+1306575384 d:\projekte\osiris\texturedshape.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1294433940 source:d:\projekte\osiris\menustate.cpp
+	"menuState.hpp"
+
+1294432402 d:\projekte\osiris\menustate.hpp
+	"state.hpp"
+	"comet.hpp"
+	"button.hpp"
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1306575383 d:\projekte\osiris\button.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1293474716 source:d:\projekte\osiris\shared.cpp
+	"shared.hpp"
+

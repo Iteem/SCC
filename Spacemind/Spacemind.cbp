@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Spacemind" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Spacemind" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lsfml-audio-d" />
+					<Add option="-lsfml-graphics-d" />
+					<Add option="-lsfml-window-d" />
+					<Add option="-lsfml-system-d" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Spacemind" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DSFML_STATIC" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lsfml-audio-s" />
+					<Add option="-lsfml-graphics-s" />
+					<Add option="-lsfml-window-s" />
+					<Add option="-lsfml-system-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="src\audiomanager.cpp" />
+		<Unit filename="src\audiomanager.hpp" />
+		<Unit filename="src\button.cpp" />
+		<Unit filename="src\button.hpp" />
+		<Unit filename="src\config.cpp" />
+		<Unit filename="src\config.hpp" />
+		<Unit filename="src\fontmanager.cpp" />
+		<Unit filename="src\fontmanager.hpp" />
+		<Unit filename="src\game.cpp" />
+		<Unit filename="src\game.hpp" />
+		<Unit filename="src\gamestate.cpp" />
+		<Unit filename="src\gamestate.hpp" />
+		<Unit filename="src\introstate.cpp" />
+		<Unit filename="src\introstate.hpp" />
+		<Unit filename="src\main.cpp" />
+		<Unit filename="src\menustate.cpp" />
+		<Unit filename="src\menustate.hpp" />
+		<Unit filename="src\resourcemanager.hpp" />
+		<Unit filename="src\resourcemanager.inl" />
+		<Unit filename="src\shared.cpp" />
+		<Unit filename="src\shared.hpp" />
+		<Unit filename="src\spritebox.cpp" />
+		<Unit filename="src\spritebox.hpp" />
+		<Unit filename="src\state.hpp" />
+		<Unit filename="src\texturemanager.cpp" />
+		<Unit filename="src\texturemanager.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

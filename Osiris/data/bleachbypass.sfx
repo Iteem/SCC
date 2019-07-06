@@ -1,0 +1,11 @@
+uniform sampler2D texture;
+uniform float threshold;
+
+void main()
+{
+	vec3 pixel = vec3(texture2D(texture, gl_TexCoord[0].xy));
+	float gray = pixel.r * 0.39 + pixel.g * 0.50 + pixel.b * 0.11;
+	gray *= 1 - threshold;
+	gl_FragColor.rgb = vec3(gray + threshold * pixel.r, gray + threshold * pixel.g, gray + threshold * pixel.b);
+	gl_FragColor.a = gl_Color.a * texture2D(texture, gl_TexCoord[0].xy).a;
+}

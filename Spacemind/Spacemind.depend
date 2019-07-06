@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1306578983 source:d:\projekte\spacemind\src\main.cpp
+	"game.hpp"
+
+1306578983 d:\projekte\spacemind\src\game.hpp
+
+1317768614 source:d:\projekte\spacemind\src\shared.cpp
+	"shared.hpp"
+
+1317894062 d:\projekte\spacemind\src\shared.hpp
+	<SFML/Graphics/RenderWindow.hpp>
+	"audiomanager.hpp"
+	"config.hpp"
+
+1318195884 source:d:\projekte\spacemind\src\gamestate.cpp
+	"gameState.hpp"
+	<sstream>
+	<cmath>
+	<cstdlib>
+	"fontmanager.hpp"
+	"texturemanager.hpp"
+
+1318194545 d:\projekte\spacemind\src\gamestate.hpp
+	<SFML/Graphics.hpp>
+	<list>
+	<vector>
+	"button.hpp"
+	"spritebox.hpp"
+	"state.hpp"
+
+1317997977 d:\projekte\spacemind\src\state.hpp
+	"shared.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+
+1318191251 source:d:\projekte\spacemind\src\menustate.cpp
+	"menuState.hpp"
+	<SFML/Graphics.hpp>
+	"texturemanager.hpp"
+	"fontmanager.hpp"
+
+1317998503 d:\projekte\spacemind\src\menustate.hpp
+	<SFML/Graphics.hpp>
+	"audiomanager.hpp"
+	"button.hpp"
+	"state.hpp"
+
+1317998285 source:d:\projekte\spacemind\src\introstate.cpp
+	"introState.hpp"
+
+1317998004 d:\projekte\spacemind\src\introstate.hpp
+	<SFML/Graphics.hpp>
+	"state.hpp"
+
+1318191445 source:d:\projekte\spacemind\src\game.cpp
+	"game.hpp"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"shared.hpp"
+	"state.hpp"
+	"config.hpp"
+	"introstate.hpp"
+	"menustate.hpp"
+	"gamestate.hpp"
+
+1317852576 source:d:\projekte\spacemind\src\config.cpp
+	"config.hpp"
+	<fstream>
+	<iostream>
+	<list>
+
+1317769275 d:\projekte\spacemind\src\config.hpp
+	<string>
+	<map>
+	<sstream>
+	<iostream>
+
+1317929520 source:d:\projekte\spacemind\src\audiomanager.cpp
+	"audiomanager.hpp"
+	<fstream>
+	<iostream>
+
+1317893917 d:\projekte\spacemind\src\audiomanager.hpp
+	<SFML/Audio.hpp>
+	<string>
+	<vector>
+
+1317893740 source:d:\projekte\spacemind\src\texturemanager.cpp
+	"texturemanager.hpp"
+
+1317902072 d:\projekte\spacemind\src\texturemanager.hpp
+	"resourcemanager.hpp"
+	<SFML/Graphics/Texture.hpp>
+
+1306578984 d:\projekte\spacemind\src\resourcemanager.hpp
+	<map>
+	<string>
+	"resourcemanager.inl"
+
+1306578984 d:\projekte\spacemind\src\resourcemanager.inl
+
+1317901939 source:d:\projekte\spacemind\src\fontmanager.cpp
+	"fontmanager.hpp"
+
+1317902072 d:\projekte\spacemind\src\fontmanager.hpp
+	"resourcemanager.hpp"
+	<SFML/Graphics/Font.hpp>
+
+1317997648 source:d:\projekte\spacemind\src\button.cpp
+	"button.hpp"
+	<iostream>
+	"texturemanager.hpp"
+
+1317997665 d:\projekte\spacemind\src\button.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+	"spritebox.hpp"
+
+1317986602 d:\projekte\spacemind\src\spritebox.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/System/Resource.hpp>
+
+1318163195 source:d:\projekte\spacemind\src\spritebox.cpp
+	"spritebox.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+

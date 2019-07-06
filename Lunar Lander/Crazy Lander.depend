@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1262977160 source:e:\programmierung\codeblocks\lunar lander\game.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<list>
+	<iostream>
+	<string>
+	<sstream>
+	<cmath>
+	<fstream>
+	"game.h"
+	"ship.h"
+	"map.h"
+
+1260911468 e:\programmierung\codeblocks\lunar lander\game.h
+	<SFML/Graphics.hpp>
+
+1260902990 e:\programmierung\codeblocks\lunar lander\ship.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1260909680 e:\programmierung\codeblocks\lunar lander\map.h
+	<SFML/Graphics.hpp>
+	<string>
+	<list>
+
+1261051322 source:e:\programmierung\codeblocks\lunar lander\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<string>
+	"game.h"
+	"menu.h"
+
+1260911468 e:\programmierung\codeblocks\lunar lander\menu.h
+	<SFML/Graphics.hpp>
+
+1261051183 source:e:\programmierung\codeblocks\lunar lander\map.cpp
+	<SFML/Graphics.hpp>
+	"Map.h"
+
+1261147686 source:e:\programmierung\codeblocks\lunar lander\ship.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	"ship.h"
+
+1261305240 source:e:\programmierung\codeblocks\lunar lander\button.cpp
+	<SFML/Graphics.hpp>
+	"button.h"
+
+1261304888 e:\programmierung\codeblocks\lunar lander\button.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1265919295 source:e:\programmierung\codeblocks\lunar lander\menu.cpp
+	<SFML/Graphics.hpp>
+	<fstream>
+	<list>
+	<string>
+	"menu.h"
+	"button.h"
+

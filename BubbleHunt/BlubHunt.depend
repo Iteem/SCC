@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1278592971 source:e:\programmierung\codeblocks\blubhunt\main.cpp
+	<SFML/Graphics.hpp>
+	"background.h"
+	"player.h"
+	"enemie.h"
+
+1278257114 source:e:\programmierung\codeblocks\blubhunt\background.cpp
+	"background.h"
+
+1278256905 e:\programmierung\codeblocks\blubhunt\background.h
+	<SFML/Graphics.hpp>
+
+1278258068 source:e:\programmierung\codeblocks\blubhunt\player.cpp
+	"player.h"
+
+1278590607 e:\programmierung\codeblocks\blubhunt\player.h
+	<SFML/Graphics.hpp>
+
+1278601584 source:e:\programmierung\codeblocks\blubhunt\enemie.cpp
+	"enemie.h"
+
+1278601626 e:\programmierung\codeblocks\blubhunt\enemie.h
+	<SFML/Graphics.hpp>
+
+1278257114 source:e:\programmierung\codeblocks\bubblehunt\background.cpp
+	"background.h"
+
+1278256905 e:\programmierung\codeblocks\bubblehunt\background.h
+	<SFML/Graphics.hpp>
+
+1278969781 source:e:\programmierung\codeblocks\bubblehunt\enemie.cpp
+	"enemie.h"
+
+1278971982 e:\programmierung\codeblocks\bubblehunt\enemie.h
+	<SFML/Graphics.hpp>
+
+1279142156 source:e:\programmierung\codeblocks\bubblehunt\enemieweapon.cpp
+	"enemieweapon.h"
+
+1279142861 e:\programmierung\codeblocks\bubblehunt\enemieweapon.h
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1278971982 e:\programmierung\codeblocks\bubblehunt\player.h
+	<SFML/Graphics.hpp>
+
+1279144711 source:e:\programmierung\codeblocks\bubblehunt\main.cpp
+	<SFML/Graphics.hpp>
+	<list>
+	<sstream>
+	"background.h"
+	"player.h"
+	"enemie.h"
+	"weapon.h"
+	"enemieweapon.h"
+
+1278971982 e:\programmierung\codeblocks\bubblehunt\weapon.h
+	<SFML/Graphics.hpp>
+	"enemie.h"
+
+1278969781 source:e:\programmierung\codeblocks\bubblehunt\player.cpp
+	"player.h"
+
+1278972665 source:e:\programmierung\codeblocks\bubblehunt\weapon.cpp
+	"weapon.h"
+
+1417871561 source:d:\projekte\bubblehunt\background.cpp
+	"background.h"
+
+1417871561 d:\projekte\bubblehunt\background.h
+	<SFML/Graphics.hpp>
+
+1417871561 source:d:\projekte\bubblehunt\enemie.cpp
+	"enemie.h"
+
+1417871561 d:\projekte\bubblehunt\enemie.h
+	<SFML/Graphics.hpp>
+
+1417871526 source:d:\projekte\bubblehunt\enemieweapon.cpp
+	"enemieweapon.h"
+
+1417871526 d:\projekte\bubblehunt\enemieweapon.h
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1417871561 d:\projekte\bubblehunt\player.h
+	<SFML/Graphics.hpp>
+
+1306578942 source:d:\projekte\bubblehunt\main.cpp
+	<SFML/Graphics.hpp>
+	<list>
+	<sstream>
+	"background.h"
+	"player.h"
+	"enemie.h"
+	"weapon.h"
+	"enemieweapon.h"
+
+1306578942 d:\projekte\bubblehunt\weapon.h
+	<SFML/Graphics.hpp>
+	"enemie.h"
+
+1306578942 source:d:\projekte\bubblehunt\player.cpp
+	"player.h"
+
+1306578942 source:d:\projekte\bubblehunt\weapon.cpp
+	"weapon.h"
+

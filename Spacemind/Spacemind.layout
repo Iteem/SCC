@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="src\button.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="381" topLine="0" />
+	</File>
+	<File name="src\button.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="1027" topLine="8" />
+	</File>
+	<File name="src\config.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1917" topLine="0" />
+	</File>
+	<File name="src\config.hpp" open="0" top="0" tabpos="11">
+		<Cursor position="460" topLine="13" />
+	</File>
+	<File name="src\game.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="80" topLine="69" />
+	</File>
+	<File name="src\game.hpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\gamestate.cpp" open="1" top="1" tabpos="7">
+		<Cursor position="7732" topLine="205" />
+	</File>
+	<File name="src\gamestate.hpp" open="1" top="0" tabpos="6">
+		<Cursor position="111" topLine="9" />
+	</File>
+	<File name="src\introstate.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="src\introstate.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="468" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="87" topLine="0" />
+	</File>
+	<File name="src\menustate.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3252" topLine="83" />
+	</File>
+	<File name="src\menustate.hpp" open="1" top="0" tabpos="1">
+		<Cursor position="635" topLine="1" />
+	</File>
+	<File name="src\shared.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="157" topLine="0" />
+	</File>
+	<File name="src\shared.hpp" open="0" top="0" tabpos="13">
+		<Cursor position="123" topLine="0" />
+	</File>
+	<File name="src\spritebox.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="1450" topLine="40" />
+	</File>
+	<File name="src\spritebox.hpp" open="0" top="0" tabpos="10">
+		<Cursor position="381" topLine="3" />
+	</File>
+	<File name="src\state.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="438" topLine="1" />
+	</File>
+</CodeBlocks_layout_file>
